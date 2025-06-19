@@ -8,3 +8,4 @@ i love :family_woman_girl:,:deciduous_tree:,:sunflower:,:tulip:,:mount_fuji:,:ma
 
 Me gusta mucho pasar tiempo con mi hija :heartpulse:
 Me gusta la naturaleza, escuchar música y leer
+También me gusta el verano
