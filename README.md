@@ -37,3 +37,13 @@ Soñare pasarte a buscar y<br>
 Algún día me atenderás a mi.<br>
 <br>
 🎵 🎼 🎵 🎼🎵 🎼 🎵 🎼🎵 🎼 🎵 🎼🎵 🎼 🎵 🎼🎵 🎼 🎵 🎼🎵 🎼 🎵 🎼🎵 🎼 🎵 🎼🎵 🎼 🎵 🎼🎵 
+<br>
+# Links de Música <br>
+## Radiohead<br>
+### OK Computer<br>
+:white_heart: https://music.youtube.com/watch?v=jNY_wLukVW0&list=OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4<br>
+:white_heart: https://music.youtube.com/watch?v=YTH8cxXBGBo&list=OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4<br>
+:white_heart: https://music.youtube.com/watch?v=4IJI6soiQhI&list=OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4<br>
+:white_heart: https://music.youtube.com/watch?v=LBt60dfwEBY&list=OLAK5uy_nc6afxSnmK8OFML8dF9q_0D1MBMXsGnL4<br>
+
+
