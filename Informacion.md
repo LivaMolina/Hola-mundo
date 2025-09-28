@@ -48,13 +48,18 @@ Vas a ver algo como:<br>
 <br>
 A partir de ahí ya podés seguir trabajando en la rama prueba, modificar archivos en tu PC, hacer commits y subirlos con:<br>
 git push origin prueba<br>
-➡️ Importante: Git Bash
+<br>
+➡️ Importante: Git Bash<br>
+<br>
 🔹 git checkout -b prueba origin/prueba<br>
+<br>
 Crea la rama local prueba a partir de la rama remota origin/prueba.<br>
 Trae automáticamente el snapshot (estado de los archivos) del último commit de esa rama.<br>
 Te deja posicionado en esa rama listo para trabajar.<br>
 👉 Es como un pull inicial: no hace falta que después corras git pull, porque ya te bajó lo último de la rama remota en ese momento.<br>
+<br>
 🔹 git pull<br>
+<br>
 Solo funciona si ya estás en una rama que está vinculada a un remoto.<br>
 Lo que hace es traer cambios nuevos del remoto y mergearlos en tu rama local.<br>
 En resumen:<br>
