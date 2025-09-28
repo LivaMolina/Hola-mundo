@@ -68,3 +68,28 @@ git checkout -b prueba origin/prueba<br>
 ✅ Ya tenés todo el contenido de la rama remota en tu repo local.<br>
 Después solo usarías git pull más adelante si alguien más hace cambios en GitHub y querés actualizarlos en tu local.<br>
 
+# CÓMO HACEMOS PARA BORRAR ESA RAMA SI YA NO VAMOS A USARLA?
+1° Después de realizar las modificaciones y commitear desde git hub, hacemos un merge<br>
+2° Eliminamos la rama desde Git Hub<br>
+3° Actualizamos el repo local y borramos la rama en git bash<br>
+### Pasos
+1. Merge en GitHub<br>
+Cuando hacés el merge de ejercicio → main en GitHub:<br>
+Todo el contenido de ejercicio ya se integra en main remoto.<br>
+La rama ejercicio se puede borrar directamente desde GitHub (te aparece el botón “Delete branch”).<br>
+2. En tu PC (Git Bash)<br>
+Si ya no querés tener más la rama local ejercicio:<br>
+Cambiá a otra rama (ejemplo main):<br>
+git checkout main<br>
+Borrá la rama local ejercicio:<br>
+git branch -d ejercicio<br>
+👉 -d significa “borrar si ya está fusionada con otra rama”.<br>
+👉 Si por alguna razón no te deja porque ve commits que no tenés, podés forzar con:
+git branch -D ejercicio<br>
+También podés borrar la rama remota (si no lo hiciste desde la web):<br>
+git push origin --delete ejercicio<br>
+#### 🔑 Importante:<br>
+No hace falta que hagas git pull antes de borrar, a menos que quieras asegurarte de tener en tu PC el historial más reciente.<br>
+La rama se puede borrar igual aunque tu copia local esté desactualizada.<br>
+
+
